@@ -25,7 +25,7 @@ import mx.com.amx.yog.components.wsd.model.Categoria;
 
 
 @Controller
-@RequestMapping("/categoria")
+@RequestMapping("/categorias")
 public class CategoriasController {
 	/** The logger. */
 	private static Logger logger = Logger.getLogger(CategoriasController.class);

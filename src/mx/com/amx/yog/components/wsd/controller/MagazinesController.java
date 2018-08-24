@@ -24,7 +24,7 @@ import mx.com.amx.yog.components.wsd.model.Magazine;
 
 
 @Controller
-@RequestMapping("/magazine")
+@RequestMapping("/magazines")
 public class MagazinesController {
 
 	/** The logger. */

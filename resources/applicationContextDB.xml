@@ -32,5 +32,8 @@
 	<bean id="categoriaDAO" class="mx.com.amx.yog.components.wsd.dao.CategoriaDAO"></bean>
 	<bean id="nNotaDAO" class="mx.com.amx.yog.components.wsd.dao.NNotaDAO"></bean>
 	<bean id="magazineDAO" class="mx.com.amx.yog.components.wsd.dao.MagazineDAO"></bean>
+	
+	<bean id="deporteDAO" class="mx.com.amx.yog.components.wsd.dao.DeporteDAO"></bean>
+	<bean id="tipoVideoDAO" class="mx.com.amx.yog.components.wsd.dao.TipoVideoDAO"></bean>
 
 </beans>

@@ -76,7 +76,7 @@ public class CategoriaDAO {
 		query.append("   FC_FRIENDLY_URL , ");
 		query.append("   FI_ESTATUS , ");
 		query.append("   FC_DFP  ");
-		query.append(" select * FROM yog_ba_c_categoria ");
+		query.append(" FROM yog_ba_c_categoria ");
 		
 
 		try {
